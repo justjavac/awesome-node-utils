@@ -9,3 +9,4 @@
 - [detect-node](https://github.com/iliakan/detect-node) - Detect Node.JS (as opposite to browser environment) (reliable)
 - [node-version](https://github.com/srod/node-version) - Get Node current version
 - [find-node-modules](https://github.com/callumacrae/find-node-modules) - Return an array of all parent node_modules directories
+- [resolve-package-path](https://www.npmjs.com/package/resolve-package-path) - A special purpose fast memoizing way to resolve a node modules package.json
