@@ -4,3 +4,4 @@
 - [npm-why](https://github.com/amio/npm-why) - Identifies why a package has been installed.
 - [why-npm-i-so-long](https://github.com/antonk52/why-npm-i-so-long) - CLI to check dependencies size.
 - [builtins](https://github.com/juliangruber/builtins) - List of node.js builtin modules
+- [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of a Node.js project or npm package
