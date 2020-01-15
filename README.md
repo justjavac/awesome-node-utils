@@ -12,3 +12,4 @@
 - [resolve-package-path](https://www.npmjs.com/package/resolve-package-path) - A special purpose fast memoizing way to resolve a node modules package.json
 - [check-node-version](https://github.com/parshap/check-node-version) - Check installed versions of node and npm
 - [parse-node-version](https://github.com/gulpjs/parse-node-version) - Turn node's process.version into something useful
+- [npm-bundled](https://github.com/npm/npm-bundled) - list things in node_modules that are bundledDependencies, or transitive dependencies thereof
