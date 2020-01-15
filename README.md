@@ -19,3 +19,4 @@
 - [builtin-modules](https://github.com/sindresorhus/builtin-modules) - List of the Node.js builtin modules
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Get your PATH prepended with locally installed binaries
 - [latest-version](https://github.com/sindresorhus/latest-version) - Get the latest version of an npm package
+- [is-installed-globally](https://github.com/sindresorhus/is-installed-globally) - Check if your package was installed globally
