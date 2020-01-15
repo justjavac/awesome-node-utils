@@ -16,3 +16,4 @@
 - [npm-install-checks](https://github.com/npm/npm-install-checks) - checks that npm runs during the installation of a module
 - [validate-npm-package-name](https://github.com/npm/validate-npm-package-name) - Give me a string and I'll tell you if it's a valid npm package name
 - [npm-packlist](https://github.com/npm/npm-packlist) - Get a list of the files to add from a folder into an npm package
+- [builtin-modules](https://github.com/sindresorhus/builtin-modules) - List of the Node.js builtin modules
