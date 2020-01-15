@@ -11,3 +11,4 @@
 - [find-node-modules](https://github.com/callumacrae/find-node-modules) - Return an array of all parent node_modules directories
 - [resolve-package-path](https://www.npmjs.com/package/resolve-package-path) - A special purpose fast memoizing way to resolve a node modules package.json
 - [check-node-version](https://github.com/parshap/check-node-version) - Check installed versions of node and npm
+- [parse-node-version](https://github.com/gulpjs/parse-node-version) - Turn node's process.version into something useful
