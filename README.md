@@ -13,3 +13,4 @@
 - [check-node-version](https://github.com/parshap/check-node-version) - Check installed versions of node and npm
 - [parse-node-version](https://github.com/gulpjs/parse-node-version) - Turn node's process.version into something useful
 - [npm-bundled](https://github.com/npm/npm-bundled) - list things in node_modules that are bundledDependencies, or transitive dependencies thereof
+- [npm-install-checks](https://github.com/npm/npm-install-checks) - checks that npm runs during the installation of a module
