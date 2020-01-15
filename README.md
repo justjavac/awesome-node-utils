@@ -18,3 +18,4 @@
 - [npm-packlist](https://github.com/npm/npm-packlist) - Get a list of the files to add from a folder into an npm package
 - [builtin-modules](https://github.com/sindresorhus/builtin-modules) - List of the Node.js builtin modules
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Get your PATH prepended with locally installed binaries
+- [latest-version](https://github.com/sindresorhus/latest-version) - Get the latest version of an npm package
