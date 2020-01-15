@@ -8,3 +8,4 @@
 - [node-releases](https://github.com/chicoxyzzy/node-releases) - Node.js releases data
 - [detect-node](https://github.com/iliakan/detect-node) - Detect Node.JS (as opposite to browser environment) (reliable)
 - [node-version](https://github.com/srod/node-version) - Get Node current version
+- [find-node-modules](https://github.com/callumacrae/find-node-modules) - Return an array of all parent node_modules directories
