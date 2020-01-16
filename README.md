@@ -20,3 +20,4 @@
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Get your PATH prepended with locally installed binaries
 - [latest-version](https://github.com/sindresorhus/latest-version) - Get the latest version of an npm package
 - [is-installed-globally](https://github.com/sindresorhus/is-installed-globally) - Check if your package was installed globally
+- [please-upgrade-node](https://github.com/typicode/please-upgrade-node) - Displays a beginner-friendly message telling your user to upgrade their version of Node
