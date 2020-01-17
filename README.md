@@ -21,3 +21,4 @@
 - [latest-version](https://github.com/sindresorhus/latest-version) - Get the latest version of an npm package
 - [is-installed-globally](https://github.com/sindresorhus/is-installed-globally) - Check if your package was installed globally
 - [please-upgrade-node](https://github.com/typicode/please-upgrade-node) - Displays a beginner-friendly message telling your user to upgrade their version of Node
+- [npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
